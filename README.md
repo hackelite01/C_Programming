@@ -81,4 +81,4 @@ $ ./program_name
     ![img](PROJECT_with_C/Tic%20Tak%20Toe%20Game/Tic_tac.png)
   - [Tic Tak Toe LITE](PROJECT_with_C/Tic%20Tak%20Toe%20LITE/main.c)(LITE version)
 
-#its_Kumar([Kumar Shanu](https://github.com/its-kumar/))
+
